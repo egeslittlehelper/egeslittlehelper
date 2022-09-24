@@ -1,5 +1,6 @@
-### Hi there 👋
-   I'm a freshman from Bilkent University , majoring in computer science
+### Hi fellow coders
+   I'm a freshman from Bilkent University , majoring in computer science.
+   I'm quite new so just learning everything I can :)
 
 <!--
 **egeslittlehelper/egeslittlehelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
