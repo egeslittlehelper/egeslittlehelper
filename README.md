@@ -1,5 +1,5 @@
 ### Hi fellow coders :alien:
-   :sunglasses: I'm a freshman from Bilkent University , majoring in computer science.
+   :sunglasses: I'm a senior from Bilkent University , majoring in computer science.
    :see_no_evil: I'm quite new so just learning everything I can 
 
 <!--
