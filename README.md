@@ -1,6 +1,6 @@
 ### Hi fellow coders :alien:
-   :sunglasses: I'm a senior from Bilkent University , majoring in computer science.
-   :see_no_evil: I'm quite new so just learning everything I can 
+   :sunglasses: I'm a graduate from Bilkent University , majoring in computer science.
+   :see_no_evil: I'm just learning everything I can 
 
 <!--
 **egeslittlehelper/egeslittlehelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
